@@ -3,4 +3,4 @@ My solutions to Eric Wastl's [Advent of Code](https://adventofcode.com/)
 
 > [!NOTE]
 > The input files as provided by AoC are **not** included with each solution.
-> [Read more about why here](https://adventofcode.com/about#faq_copying)
+> [To find why, read here.](https://adventofcode.com/about#faq_copying)
